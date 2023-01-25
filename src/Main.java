@@ -6,10 +6,10 @@ public class Main {
         int n = sc.nextInt();
         sc.close();
 
-        int res = 0;
-        for(int i = n; i<=100; i++){
-            res += i;
+        int sum = 0;
+        for (int i = n; i <= 100; i++) {
+            sum += i;
         }
-        System.out.println(res);
+        System.out.println(sum);
     }
 }

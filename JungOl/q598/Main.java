@@ -18,9 +18,9 @@ public class Main {
 
         while (true) {
             char c = sc.next().charAt(0);
-            if ((c >= 65 && c <= 86) || (c >= 91 && c <= 122)) {
+            if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z')) {
                 System.out.println(c);
-            } else if (c >= 48 && c <= 57) {
+            } else if (c >= '0' && c <= '9') {
                 System.out.println((int) c);
             } else {
                 break;

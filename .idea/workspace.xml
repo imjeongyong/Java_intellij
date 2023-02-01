@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5279465f-a4b6-4da9-a252-22f082573508" name="변경" comment="230127">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Intellij.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Intellij.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JungOl/q1840/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JungOl/q1840/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungOl/q1840.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675040737452</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="230127">
+      <created>1675155846090</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675155846090</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
